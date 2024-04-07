@@ -16,3 +16,6 @@ nltk.
 Neural Networks Used: 
 VGG16 Network,
 CNN-LSTM Network.
+
+
+For This Project To Work On Your PC, Download the Code and need to make a diectory for saving the best model after training (in the folder named *working*, you can change the path according to your needs.)
